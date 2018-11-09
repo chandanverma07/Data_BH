@@ -1,0 +1,101 @@
+patientId,prescription,visitdate,PCPNAME
+1,Zolpidem Tartrate,05/16/2013,Arsenio Yates
+101,Ciprofloxacin HCl,02/10/2015,Keith Morin
+201,Levaquin,07/07/2013,Guy Landry
+301,Carvedilol,01/27/2013,Rahim Burnett
+401,Amoxicillin,06/10/2015,Zeus Watkins
+501,Benicar,11/02/2016,Herman Mayer
+601,Actos,01/25/2013,Myles Charles
+701,Clonazepam,08/24/2013,Yuli Zamora
+801,Alprazolam,09/07/2015,Ivor Sampson
+901,Carvedilol,02/08/2016,Gareth Robertson
+1001,APAP/Codeine,08/25/2014,Griffith Hammond
+1101,Citalopram HBR,09/15/2014,Blaze Eaton
+1201,Hydrocodone/APAP,03/21/2016,Davis Blankenship
+1301,Lantus Solostar,04/15/2015,Chaney Brennan
+1401,Pantoprazole Sodium,01/24/2013,Kermit Joyce
+1501,Vyvanse,12/30/2016,Burke Perkins
+1601,Zolpidem Tartrate,02/02/2015,John Short
+1701,Alprazolam,08/10/2016,Callum Huffman
+1801,Triamcinolone Acetonide,02/27/2013,Elmo Alexander
+1901,Suboxone,08/27/2015,Nigel Mckinney
+2001,Gianvi,05/12/2014,Thaddeus Adams
+2101,Carvedilol,08/04/2015,Ignatius Guy
+2201,Amoxicillin,02/24/2015,Micah Gould
+2301,Alendronate Sodium,04/02/2016,Gareth Mcleod
+2401,Lidoderm,04/10/2015,Bevis Nolan
+2501,Lantus Solostar,12/29/2016,Vance Thomas
+2601,Simvastatin,04/05/2016,Stewart Duffy
+2701,Alprazolam,03/26/2015,Abraham Gaines
+2801,Fluticasone Propionate,08/16/2014,Cain Hardy
+2901,Loestrin 24 Fe,10/23/2014,Prescott Mcclure
+3001,Enalapril Maleate,03/29/2015,Prescott Kramer
+3101,Fluoxetine HCl,07/02/2013,Baker Mcfarland
+3201,Alprazolam,07/31/2013,Patrick Le
+3301,Abilify,07/13/2013,Daniel Little
+3401,Alprazolam,04/05/2013,Kenneth Austin
+3501,Lisinopril,01/31/2014,Knox Gomez
+3601,Metoprolol Succinatee,09/19/2014,Rashad Alston
+3701,Nuvaring,10/26/2015,Kane Foley
+3801,Levothyroxine Sodium,11/10/2016,Hayden Norris
+3901,Simvastatin,05/02/2015,Geoffrey Wong
+4001,Fluticasone Propionate,11/14/2015,Mufutau Fitzgerald
+4101,Enalapril Maleate,10/27/2014,Nolan Villarreal
+4201,Simvastatin,07/29/2013,Elmo Acosta
+4301,Gianvi,04/15/2016,Noah Castro
+4401,Furosemide,06/18/2016,Kamal Leblanc
+4501,Citalopram HBR,10/01/2015,Cullen Cantrell
+4601,Amphetamine Salts,12/04/2013,Harper Navarro
+4701,Lidoderm,09/28/2016,Xanthus William
+4801,Vyvanse,04/06/2016,Joel Nolan
+4901,Oxycodone HCl,06/21/2013,Hu Moses
+5001,Meloxicam,10/22/2013,Clarke Mcgowan
+5101,Oxycontin,05/06/2014,Adrian Dalton
+5201,Gianvi,12/16/2013,Baxter Mclean
+5301,Levothyroxine Sodium,10/01/2013,Jin Jarvis
+5401,Cialis,04/16/2015,Mark Mcdonald
+5501,Tricor,11/04/2014,Jelani Sosa
+5601,Azithromycin,07/05/2014,Travis Burke
+5701,Oxycontin,01/03/2014,Dennis Newman
+5801,Famotidine,11/23/2015,Lane Howard
+5901,Hydrocodone/APAP,04/12/2013,Wylie Stephenson
+6001,Lovaza,11/14/2013,Fitzgerald Campbell
+6101,Lipitor,06/10/2013,Forrest Roman
+6201,Namenda,03/07/2015,Octavius Noble
+6301,Benicar,12/29/2013,Reuben Pittman
+6401,Omeprazole (Rx),06/10/2014,Shad James
+6501,Simvastatin,11/20/2016,Rafael Rivers
+6601,Metformin HCl,02/16/2014,Tiger Rios
+6701,Lexapro,04/08/2015,Caleb Ruiz
+6801,Simvastatin,06/02/2015,Hop Walton
+6901,Amlodipine Besylate,08/15/2015,Christian Mendez
+7001,Lisinopril/Hydrochlorothiazide,04/16/2013,Neil Hebert
+7101,Omeprazole (Rx),02/17/2014,Octavius Brennan
+7201,Amlodipine Besylate,08/01/2015,Elliott Haney
+7301,Hydrocodone/APAP,07/23/2014,Demetrius Mullen
+7401,Endocet,02/09/2014,Kane Bowers
+7501,Lisinopril,06/14/2013,Owen Garner
+7601,Proair HFA,08/04/2013,Cadman Gates
+7701,Zetia,10/09/2016,Vladimir Barrera
+7801,Prednisone,04/29/2014,Odysseus Mcmillan
+7901,Proair HFA,02/22/2015,Fritz Terrell
+8001,Fluoxetine HCl,04/02/2014,Lewis Hooper
+8101,Triamterene/Hydrochlorothiazide,02/16/2014,Oren Bradford
+8201,Singulair,07/30/2014,Graiden Matthews
+8301,Lisinopril,10/17/2013,Uriah Schwartz
+8401,Hydrocodone/APAP,08/20/2013,Arthur Ortiz
+8501,Diazepam,12/02/2015,Lewis Cooke
+8601,Clindamycin HCl,11/29/2014,Guy Cannon
+8701,Lisinopril,02/24/2016,Leroy Charles
+8801,Tramadol HCl,11/15/2014,Tyrone House
+8901,Suboxone,03/14/2013,Bernard Dean
+9001,Lisinopril,03/28/2014,Rudyard Klein
+9101,Cyclobenzaprin HCl,06/27/2016,Axel Cummings
+9201,Zyprexa,03/02/2015,Brock Cooke
+9301,Lovaza,05/23/2014,Grant Holcomb
+9401,Lisinopril/Hydrochlorothiazide,08/23/2016,Justin Rogers
+9501,Actos,12/18/2015,Allen Heath
+9601,Ibuprofen (Rx),04/30/2013,Jesse Albert
+9701,Nexium,08/08/2013,Christian Kerr
+9801,Hydrochlorothiazide,06/12/2013,Branden Bowers
+9901,Glipizide,04/25/2015,Sebastian Daniel
